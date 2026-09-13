@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Vista - Hoja de CPT Automatica
 // @namespace    https://trans-logistics-eu.amazon.com/
-// @version      5.4
+// @version      5.5
 // @description  Recoge todo los contenedores de cada CPT automaticamente y los añade en una hoja para ser imprimidos (Si notais algun fallo o teneis alguna mejora avisarnos).
 // @author       @andgimen @qaguluis
 // @match        https://trans-logistics-eu.amazon.com/sortcenter/vista/*
 // @grant        none
 // @run-at       document-idle
+// @updateURL    https://github.com/qaguluis/Vista---Hoja-de-CPT-Automatica-v5.5/raw/refs/heads/main/Vista%20-%20Hoja%20de%20CPT%20Automatica-5.5.user.js
+// @downloadURL  https://github.com/qaguluis/Vista---Hoja-de-CPT-Automatica-v5.5/raw/refs/heads/main/Vista%20-%20Hoja%20de%20CPT%20Automatica-5.5.user.js
 // ==/UserScript==
 
 (function () {
